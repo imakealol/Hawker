@@ -7,3 +7,4 @@ user-agents
 python-docx
 fake-useragent
 lxml
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
